@@ -1,0 +1,15 @@
+2026-04-22 10:38:44 INFO  LoggerExample - Application started
+2026-04-22 10:38:44 ERROR LoggerExample - Exception occurred
+java.lang.ArithmeticException: / by zero
+	at com.training.org.LoggerExample.main(LoggerExample.java:18) [classes/:?]
+2026-04-22 10:38:44 DEBUG LoggerExample - Debug message
+2026-04-22 10:38:44 WARN  LoggerExample - Warning message
+2026-04-22 10:38:44 INFO  LoggerExample - Application finished
+2026-04-22 10:39:00 INFO  LoggerExample - Application started
+2026-04-22 10:39:00 DEBUG LoggerExample - Debug message
+2026-04-22 10:39:00 WARN  LoggerExample - Warning message
+2026-04-22 10:39:00 INFO  LoggerExample - Application finished
+2026-04-22 10:44:28 INFO  LoggerDemo - Using SLF4J with Log4j2
+2026-04-22 10:44:42 INFO  LoggerDemo - Hello...
+2026-04-22 10:52:00 INFO  LoggerDemo - Hello...
+2026-04-22 10:53:19 INFO  LoggerDemo - Hello...
